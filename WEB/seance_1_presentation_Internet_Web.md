@@ -29,5 +29,5 @@ Il existe d'autres applications qui utilisent internet, comme les différentes a
 • De façon fondamentale, le Web est constitué de l'ensemble des documents hypertextes (pages [HTML](WEB/Séance 1_ présentation HTML.md)) auxquels il donne accès : on relie un document à un autre à l'aide d'un lien qu'on peut utiliser pour basculer vers un nouveau contenu hypertexte sans avoir à parcourir l'ensemble du document initial.
 
 • Le Web a vu le jour en Suisse, en 1989 au CERN (European Organization for Nuclear Research) sous l'impulsion de Tim Berners-Lee, un chercheur Britannique.
-Internet existait déjà ( le mot apparait en 1983 )... [plus d'infos historiques](WEB/Aperçu_Historique.md)
+Internet existait déjà ( le mot apparait en 1983 )... [plus d'infos historiques](Aperçu_Historique.md)
 
