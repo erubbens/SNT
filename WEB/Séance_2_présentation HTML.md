@@ -51,5 +51,4 @@ La seule question à se poser ici est : ai-je bien refermé toutes les balises q
 * Essayez de mettre en œuvre et de visualiser l’effet des balises que vous souhaitez
 * Créez une nouvelle page .html appelée loisir.html qui présente une de vos activité préférée avec au moins 6 balises différentes.
 
-## Pour aller plus loin
-le lien vers la page de Mr Lesieux : https://drive.google.com/file/d/0B6JMjmZv1UAwMUFzcTQ4ZVBjUTQ/view
+
