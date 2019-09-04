@@ -26,7 +26,8 @@ Comme on le voit sur le schéma, il n'existe pas de chemin unique pour passer du
 • Le Web est **l'une** des applications qui utilisent Internet pour transmettre leurs données d'une machine à une autre.
 Il existe d'autres applications qui utilisent internet, comme les différentes applications de messagerie, le pair-à-pair / peer-to-peer / P2P, qui peuvent être basées sur d'autres protocoles.
 
-• De façon fondamentale, le Web est constitué de l'ensemble des documents hypertextes (pages  ) [HTML](Séance 1_présentation HTML.md)  auxquels il donne accès : on relie un document à un autre à l'aide d'un lien qu'on peut utiliser pour basculer vers un nouveau contenu hypertexte sans avoir à parcourir l'ensemble du document initial.
+• De façon fondamentale, le Web est constitué de l'ensemble des documents hypertextes (pages 
+[HTML](Séance1_présentation_HTML.md)  auxquels il donne accès : on relie un document à un autre à l'aide d'un lien qu'on peut utiliser pour basculer vers un nouveau contenu hypertexte sans avoir à parcourir l'ensemble du document initial.
 
 • Le Web a vu le jour en Suisse, en 1989 au CERN (European Organization for Nuclear Research) sous l'impulsion de Tim Berners-Lee, un chercheur Britannique.
 Internet existait déjà ( le mot apparait en 1983 )... [plus d'infos historiques](Aperçu_Historique.md)
