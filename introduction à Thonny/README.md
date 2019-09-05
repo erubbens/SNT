@@ -1,4 +1,4 @@
-﻿# Thonny
+# Thonny
 
 
 Thonny est un *environnement de développement intégré* (EDI ou IDE en anglais pour 
@@ -41,7 +41,7 @@ Par exemple, `>>> 12+3*5` ou  `>>> print('Hello World')`, ou encore  `>>> a=3`  
 * un nouveau panneau  apparaît sur la droite qui présente les variables en donnant leur nom et leur valeur
 * dans le shell ajouter une définition d'une nouvelle variable, puis modifier sa valeur. Observer dans la vue sur les variables
 
-![vue sur Thonny](image2_thonny.png)
+![vue sur Thonny](image_thonny.png)
 
 ### Facilités de dialogue 
 
