@@ -81,7 +81,8 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 	 ``` html
 	 <a href=“#monparagraphe“>Lien vers mon paragraphe</a>```
 
-	pour faire un lien pour télécharger un fichier, on fait un lien en indiquant simplement le nom du fichier à télécharger :``` html 
+	pour faire un lien pour télécharger un fichier, on fait un lien en indiquant simplement le nom du  
+	fichier à télécharger :``` html 
 	<a href=“monfichierimage.jpg“>Fichier à télécharger< /a> ``` 
 
 	Remarque : Tous les fichiers utilisés dans la page doivent se trouver dans le même dossier 
