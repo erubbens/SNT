@@ -76,7 +76,7 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 
 	pour faire un lien pour télécharger un fichier, on fait un lien en indiquant simplement le nom du fichier à télécharger :``` <a href=“monfichierimage.jpg“>Fichier à télécharger< /a> ``` 
 
-		Remarque : Tous les fichiers utilisés dans la page doivent se trouver dans le même dossier 
+	Remarque : Tous les fichiers utilisés dans la page doivent se trouver dans le même dossier 
 
 
 - _**Insérer des images**_
