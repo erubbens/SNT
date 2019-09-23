@@ -70,7 +70,7 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 	- Lien vers un site existant : ```<a href=“http://adresse.com“> Lien vers ce site </a>```
 	- Lien relatif vers une page2.html de mon site à partir d’une page1.html :``` <a href=“page2.html“>Lien vers page2</a>```  
 	
-	- Lien vers une ancre, c’est-à-dire un repère dans la page, ce qui peut être utile si la page est longue.
+	- Lien vers une ancre, c’est-à-dire un repère dans la page, ce qui peut être utile si la page est longue.  
 	 On choisit pour cela de donner un identifiant à l’endroit de la page où on veut aller :```<p id=“monparagraphe“> Mon paragraphe</p>``` 
 	 puis on tape le lien vers cet identifiant:```<a href=“#monparagraphe“>Lien vers mon paragraphe</a>```
 
