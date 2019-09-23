@@ -40,7 +40,8 @@ _**Structure de base d’une page HTML**_ : observez comment les balises s'ouvre
 
 Des balises pour organiser et structurer le texte :
 
--	Créer des titres avec des niveaux de titres de moins en moins importants. :  ```<h1> </h1> ``` ;  ```<h2> </h2> ``` ; ….. ;  ```<h6> </h6>  ``` 
+-	Créer des titres avec des niveaux de titres de moins en moins importants. :  
+```<h1> </h1> ``` ;  ```<h2> </h2> ``` ; ….. ;  ```<h6> </h6>  ``` 
 -	Organiser le texte en _**paragraphes**_ :``` <p> ```pour débuter un paragraphe et ```</p>``` pour le terminer
 -	Aller à la ligne : la balise orpheline : ```<br/>```
 -	Mettre en valeur du texte (emphasize) : ``` <em> </em> ```
@@ -67,10 +68,10 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 
 - _**Créer des liens**_
 
-	- Lien vers un site existant : ```  
-	<a href=“http://adresse.com“> Lien vers ce site </a>```
-	- Lien relatif vers une page2.html de mon site à partir d’une page1.html :```  
-	<a href=“page2.html“>Lien vers page2</a>```  
+	- Lien vers un site existant :  
+	```  <a href=“http://adresse.com“> Lien vers ce site </a>```
+	- Lien relatif vers une page2.html de mon site à partir d’une page1.html :  
+	``` <a href=“page2.html“>Lien vers page2</a>```  
 	
 	- Lien vers une ancre, c’est-à-dire un repère dans la page, ce qui peut être utile si la page est longue.  
 	 On choisit pour cela de donner un identifiant à l’endroit de la page où on veut aller :  
