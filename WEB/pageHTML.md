@@ -67,9 +67,9 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 
 - _**Créer des liens**_
 
-	- Lien vers un site existant : ```html  
+	- Lien vers un site existant : ```  
 	<a href=“http://adresse.com“> Lien vers ce site </a>```
-	- Lien relatif vers une page2.html de mon site à partir d’une page1.html :```html  
+	- Lien relatif vers une page2.html de mon site à partir d’une page1.html :```  
 	<a href=“page2.html“>Lien vers page2</a>```  
 	
 	- Lien vers une ancre, c’est-à-dire un repère dans la page, ce qui peut être utile si la page est longue.  
