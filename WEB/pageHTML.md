@@ -75,15 +75,12 @@ Pour créer  une _**liste ordonnée**_, il suffit de remplacer  ```<ul> ``` et  
 	
 	- Lien vers une ancre, c’est-à-dire un repère dans la page, ce qui peut être utile si la page est longue.  
 	 On choisit pour cela de donner un identifiant à l’endroit de la page où on veut aller :  
-	 ```html
-	 <p id=“monparagraphe“> Mon paragraphe</p> ``` 
+	 ``` <p id=“monparagraphe“> Mon paragraphe</p> ``` 
 	 puis on tape le lien vers cet identifiant:  
-	 ``` html
-	 <a href=“#monparagraphe“>Lien vers mon paragraphe</a>```
+	 ```  <a href=“#monparagraphe“>Lien vers mon paragraphe</a>```
 
 	pour faire un lien pour télécharger un fichier, on fait un lien en indiquant simplement le nom du  
-	fichier à télécharger :``` html 
-	<a href=“monfichierimage.jpg“>Fichier à télécharger< /a> ``` 
+	fichier à télécharger :``` <a href=“monfichierimage.jpg“>Fichier à télécharger< /a> ``` 
 
 	Remarque : Tous les fichiers utilisés dans la page doivent se trouver dans le même dossier 
 
